@@ -7,8 +7,7 @@ This calculator allows basic arithmetic operations, percentage calculations, and
 
 ## 🖼 Screenshot
 
-<img src="./assets/Output-Src.png" alt="Output Screenshot" width="500" />
-
+![Project Screenshot](assets/Output-Src.png)
 
 ---
 
