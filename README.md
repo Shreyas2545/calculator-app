@@ -7,7 +7,7 @@ This calculator allows basic arithmetic operations, percentage calculations, and
 
 ## 🖼 Screenshot
 
-![Project Screenshot](assets/Output-Src.png)
+![Project Screenshot]([assets/Output-Src.png](https://github.com/Shreyas2545/calculator-app/blob/main/src/assets/Output-Src.png?raw=true))
 
 ---
 
